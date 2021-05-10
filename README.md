@@ -1,1 +1,2 @@
 # stock-tracking-reddit
+# This fun personal project was done to not only gather valuable sentimental analysis from popular stock trading subreddits, but was also done to learn more about databases, python, and APIs.
