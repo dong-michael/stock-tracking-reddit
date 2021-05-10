@@ -5,7 +5,7 @@ import datetime
 import psycopg2
 import psycopg2.extras
 
-#Some code taken and modified from tutorial: https://github.com/hackingthemarkets
+#Some code taken and modified from tutorial: https://github.com/hackingthemarkets 
 
 class search_subreddit:
 
